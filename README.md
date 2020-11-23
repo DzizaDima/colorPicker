@@ -1,1 +1,1 @@
-# colorPicker
+# Исходники в папке resources
